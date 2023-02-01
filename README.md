@@ -52,7 +52,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=robsoul8949)" alt="Rob's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=robsoul8949" alt="Rob's Github Stats" width="60%">
 
 
 <br>
